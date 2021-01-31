@@ -1,0 +1,3 @@
+[submodule "STM32_CONTROLLER_USER_INTERFACE"]
+	path = STM32_CONTROLLER_USER_INTERFACE
+	url = https://github.com/saduncakmakli/STM32_CONTROLLER_USER_INTERFACE.git
